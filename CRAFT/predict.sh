@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=5 python3 test.py --trained_model weights/craft.pth --test_folder images
